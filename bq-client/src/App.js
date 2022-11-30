@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import Login from './components/ScreenView/Login';
 import {
   BrowserRouter,
-  Routes,
+  Routes,  
   Route,
 } from "react-router-dom";
 
